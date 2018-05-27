@@ -1,6 +1,6 @@
 # Ruby on Rails / Create React App / ActiveAdmin stack
 
-Credit to (this post's)[https://dev.to/heroku/a-rock-solid-modern-web-stackrails-5-api--activeadmin--create-react-app-on-heroku-jfm] author for the hard work in getting this all set up. Here I've just taken his hard work and made it in to a template for next time I want to create a project like this. Please feel free to take this, and check out his tutorial for a great write up on how to get this set up from scratch.
+Credit to [this post's](https://dev.to/heroku/a-rock-solid-modern-web-stackrails-5-api--activeadmin--create-react-app-on-heroku-jfm) author, [Charlie Gleason](https://dev.to/superhighfives) for the hard work in getting this all set up. Here I've just taken his hard work and made it in to a template for next time I want to create a project like this. Please feel free to take this, and check out his tutorial for a great write up on how to get this set up from scratch.
 
 This version uses gem 'pg' for easy development/deployment to Heroku. I assume you're using yarn - you'll need to adjust my yarn commands to your preferred program if you're not. 
 
